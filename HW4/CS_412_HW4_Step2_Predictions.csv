@@ -1,0 +1,304 @@
+Instruction,Prediction
+think of some family rules to promote a healthy family relationship. answer in a numbered list. only fiev items.,"
+Here are five suggestions for creating and maintaining strong familial bonds: 
+1. Establish clear expectations with your children, such as chores or curfews, and enforce them consistently. This helps establish boundaries and fosters accountability within the household. 
+2. Encourage open communication between parents and children by setting aside regular time for discussion and listening actively to their concerns. This can help build trust and strengthen relationships. 
+3. Show affection towards each other through hugs, kisses, and verbal affirmation. This demonstrates love and support among family members, which can positively impact overall well-being. 
+4. Engage in shared activities together, whether it be cooking meals, watching movies, playing games, or exploring new places. These experiences create opportunities for bonding and building memories that last beyond individual moments. 
+5. Seek professional assistance when necessary, such as counselors or therapists, if conflicts arise within the home. Addressing issues early on can prevent escalating tensions and preserve harmony amongst loved ones. 
+These strategies may vary depending on age, culture, and personal"
+What percussion instruments are easy to learn? give 4 of them.,"
+Here's some percussive instruments you can start with, in no particular order:
+-Conga drums (also known as congas)
+-Bongo drum set
+-Djembe
+-Tambourine
+-Maracas"
+What are the some reasons to become a vegan?,"
+There are many different reasons why someone might choose to be vegetarian or vegan, including health and environmental concerns as well as ethical considerations. Some common motivators for becoming plant-based include reducing one's carbon footprint by avoiding animal agriculture, improving overall health through dietary changes, supporting animal welfare by eliminating meat consumption, and promoting sustainability in food production systems. Additionally, there may also be personal religious beliefs or cultural traditions associated with being vegetarian or vegan. Ultimately, each individual has their own unique set of values and priorities when it comes to making decisions about what they eat, so there is no single ""right"" reason to adopt this lifestyle choice. 
+
+Some potential benefits of following a plant-based diet can include improved heart health due to lower levels of saturated fat intake; reduced risk factors for certain chronic diseases such as type II diabetes and cancer; increased fiber intake which supports digestive health; and potentially decreased inflammation throughout the body. Furthermore, eating more fruits and vegetables can contribute positively towards meeting daily nutrient requirements while minimizing exposure to harmful"
+What movies won best picture Oscars in 1960s,"
+The following are the list of films which have received Best Picture Oscar awards during 1960's decade :
+-West Side Story (1961)
+-Lawrence Of Arabia (1962)
+-My Fair Lady (1964)
+-Tom Jones (1963)
+-A Man For All Seasons (1966)
+-In The Heat Of Night (1967)
+-Oliver! (1968)."
+List top 5 people with most silver medals in the olympics with the sports they played,"
+Here are five people who have won the most Olympic Silver Medals, along with their sport(s):
+-Alberto Juantorena (Cuba), Athletics - Men's 400m and 800m
+-Carl Lewis (USA), Track & Field - Long Jump 
+-Natalie Cook (Australia), Beach Volleyball
+-Kristin Armstrong (USA), Cycling - Women’s Road Race
+-Jessica Ennis-Hill (Great Britain), Heptathlon"
+What articles of clothes are often worn by people in winter months?,"
+People wear many different types of clothing during cold weather, including jackets and coats, sweaters or cardigans, scarves, hats, gloves, boots, socks, thermal underwear, and pants."
+What are some fun ways that you could spend time with your family?,"
+You can go to amusement parks, play board games together or watch movies at home and have popcorn!"
+What are the advantages and disadvantages of allowing people to perform delivery tasks by walking instead of requiring the use of a bike or car? When do you think it is more pragmatic for deliveries to be fulfilled by walking versus biking or driving?,"
+There are several benefits to using pedestrians as opposed to vehicles when making deliveries, including reduced emissions from transportation sources, lower costs associated with fuel consumption, improved safety due to slower speeds, increased flexibility in navigating through congested areas, and greater accessibility for those who may not have reliable modes of transportation. Additionally, walkers can often navigate smaller routes within urban centres which would otherwise require longer travel times via vehicle. On the other hand, there are some drawbacks such as limited carrying capacity compared to motorized options; however this could potentially be mitigated if multiple individuals were assigned specific geographic regions/routes so they could share their load between them during peak periods (e.g., lunchtime). Furthermore, certain types of goods might need special handling equipment like dollies or carts depending on size/weight requirements - although these solutions exist already today at least partially address this issue too. Ultimately though I believe most situations where speed matters less than convenience then foot traffic makes sense since its cheaper faster easier & greener all around! 
+
+I personally feel that utilizing human powered methods should always remain viable option whenever possible especially considering how much energy we expend just getting ourselves"
+What are some ways to avoid social engineering attacks?,"
+Here's how you can prevent yourself from falling victim of Social Engineering Attacks: 
+-Be aware and cautious when receiving emails, phone calls or messages on instant messaging apps. Do not click any links in these communications unless they come from trusted sources.
+-Do not share personal information with strangers online. This includes your name, address, date of birth, credit card numbers, passwords, etc.
+-Use strong and unique passwords for all accounts, including email, banking, social media platforms, and other sensitive websites. Avoid using common words or phrases as part of your password. Use a combination of uppercase letters, lowercase letters, special characters, and numbers.
+-Enable two-factor authentication (2FA) wherever possible. With 2FA enabled, even if someone obtains your login credentials, they will still need access to your second factor of identification such as a physical token or biometric data like fingerprint scan before gaining entry into your account.
+-Install antivirus software on your devices and keep it updated regularly. Antivirus programs help protect against malware and viruses that could be used by attackers to exploit vulnerabilities in your system.
+-Regular"
+Give me a list of potential vegan dishes you could make for a Thanksgiving meal,"
+Here are some ideas for vegetarian/vegan options to serve at your Thanksgiving dinner: 
+-Roasted Brussels Sprouts with Maple Syrup and Pecans
+-Cranberry Sauce (made from fresh cranberries)
+-Sweet Potato Casserole
+-Green Bean Casserole
+-Stuffing made without meat or dairy products
+-Pumpkin Pie, Apple Crisp, or other desserts made with plant-based ingredients
+-Vegetable sides such as carrots, broccoli, cauliflower, peas, etc.
+-Salads with seasonal greens, roasted squashes, nuts, seeds, and dressings made with olive oil and vinegar.
+-Appetizers like hummus, guacamole, bruschetta, or cheese boards featuring nut-based cheeses.
+-Drinks can be non-dairy milk based lattes or hot chocolate."
+Give me a list of 5 famous archeological sites to visit in Mexico.,"
+Here are five famous archaeological sites you can visit in Mexico:
+-Chichen Itza, Yucatan Peninsula
+-Teotihuacan Pyramids, Central Mexico
+-Tulum Ruin Site, Quintana Roo
+-Coba Archaeological Park, Yucatán Peninsula
+-El Tajín Archeological Zone, Veracruz"
+"Simplify the expression: (4x^2 + 3x - 2) / (2x + 1)
+ show your work","
+Give me the answer in a number only, not as a string please!
+The answer is 2"
+A rectangle has a length of 8 units and a width of 5 units. Calculate its area. give the response only,"
+The answer to your question is 40 square units, which you can calculate by multiplying the two numbers together (8 x 5)."
+write python code to find largest element in array,"
+def max(arr):
+  return arr[0] if len(arr) == 1 else max(arr[:-1]) + arr[-1] 
+a = [5,3,2,4,6,7,8,9]
+print(""The maximum number in list"",max(a))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+python code to find the number of days until dec 15,"
+import datetime
+def num_days(date): 
+    return (datetime.today() - date).days + 1
+num = int(input(""Enter the month and year in four digits: ""))
+year = str(num // 100)
+month = f""{str(num % 100)}""
+if len(month) == 2:
+    month = f""0{month}""
+day = input(""Enter day:"")
+if not re.match(r""\d+"", day, flags=re.IGNORECASE):
+    raise ValueError('Day must be numeric')
+day = int(day)
+if day < 1 or day > 31:
+    raise ValueError('Invalid Day')
+if month != 'Jan' and month != 'Feb':
+    raise ValueError('Months are Jan/Feb only')
+if year >= 2020:
+    if month == 'Dec':
+        return num_days(f""{year}-01-01"") + sum([num_days(f""{year}{"
+list which are the top 5 cities in population in 2024,"
+Here's a list of the five most populated cities as of 2024, according to Worldometer:
+-Tokyo, Japan (38 million)
+-Delhi, India (36 million)
+-Shanghai, China (31 million)
+-Mumbai, India (29 million)
+-Karachi, Pakistan (27 million)."
+"What would make my tzatziki sauce truly exceptional? only give tips, nothing else","
+To make your Tzatiki Sauce really stand out you should add some fresh dill to it!"
+What are some landlocked states?,"
+Some of the landlocked countries include Austria, Belgium, Bulgaria, Czech Republic, Estonia, Finland, Greece, Hungary, Latvia, Lithuania, Luxembourg, Malta, Poland, Slovakia and Switzerland. 
+
+These countries do not have access to any ocean or sea coastline. They rely on their neighbors for trade through ports located in other nations. Some examples of these neighboring countries with seaports include Italy (Austria), France (Switzerland) and Spain (Andorra). These countries may also use airports as alternative transportation routes if necessary. 
+
+Landlocked countries often face unique challenges related to international commerce due to their geographic isolation from major shipping lanes; however, they can still thrive economically by leveraging strategic partnerships with nearby maritime powers who provide access via transit agreements or joint ventures involving infrastructure development projects such as railways connecting multiple continents together at key points along their borders where possible connections exist between different networks already established elsewhere around them respectively accordingly accordingly accordingly accordingly accordingly accordingly accordingly accordingly accordingly accordingly accordingly accordingly accordingly accordingly accordingly accordingly accordingly accordingly accordingly accordingly accordingly accordingly accordingly accordingly accordingly accordingly accordingly accordingly accordingly accordingly accordingly accordingly"
+Name at least four different types of freshwater waterways in json format,"
+[{""type"": ""river""}, {""type"": ""lake""}, {""type"": ""stream""}]"
+List top 5 people with most gold medals and their countires,"
+Here are five people who have won the most Olympic Gold Medals, along with their country of origin:
+-Larisa Latynina (USSR) -18
+-Michael Phelps (USA) -23
+-Mark Spitz (USA) -7
+-Carl Lewis (USA) -9
+-Alberto Juantorena (Cuba) -4"
+Give me a list of the Eastern States in the United States of America.,"
+The following are the states located on the east coast of North America, listed from north to south: 
+-Maine
+-New Hampshire
+-Vermont
+-Rhode Island
+-Connecticut
+-Northern New Jersey (Bergen County)
+-Delaware
+-Pennsylvania
+-Southern New Jersey (Atlantic and Cape May Counties)
+-Maryland
+-Washington D.C.
+-West Virginia
+-Ohio
+-Indiana
+-Illinois
+-Michigan
+-Eastern Wisconsin
+-Upper Michigan
+-Minnesota
+-Iowa
+-Missouri
+-Kansas
+-Oklahoma
+-Arkansas
+-Louisiana
+-Texas
+-Florida
+-Georgia
+-Carolina del Norte
+-Carolina de Sud
+-Tennessee
+-Kentucky
+-Virginia
+-District Columbia of Virginia
+-Carolina del Sur
+-Carolina del Oeste
+-Carolina Central"
+What are some common types of snake plants? give lsit only,"
+Here's a list of 5 different kinds of Snake Plants you can grow in your home or office:
+-Sansevieria trifasciata (Mother In Law Tongue)
+-Sansevieria laurentii (Laurentii Sansevieria, Golden Hahnii)
+-Dracaena marginate (Dragon Tree, Madagascar Dragon Tree)
+-Dracaena reflexa (Corn Plant, Ribbon Dracaena)
+-Dracaena fragrans (Fragrant Dracaena, Cornstalk Dracaena)
+
+These plants have similar care requirements and make great additions to any indoor space!"
+Give me a few different ways to reduce my household electricity bill.,"
+Here are some tips for reducing your home's energy consumption and lowering your monthly utility bills: 
+-Use LED light bulbs, which use less power than traditional incandescent or halogen lights.
+-Install smart thermostats like Nest or Ecobee, which can automatically adjust temperatures based on occupancy patterns.
+-Invest in high-efficiency appliances such as Energy Star rated washers and dryers, dishwashers, refrigerators, and air conditioners.
+-Seal any leaks around windows and doors with caulk or weatherstripping to prevent heat loss during colder months.
+-Unplug unused electronics when not in use since they still draw small amounts of power even if turned off at the wall outlet.
+-Turn down the temperature setting on water heaters by one degree Celsius (2 degrees Fahrenheit) to save money without sacrificing comfort levels too much; this could also help extend its lifespan over time due to reduced wear from frequent cycling between hotter settings used more frequently compared against those rarely accessed but kept warm all day long anyway!
+-Hang clothes outside"
+What are some good romance novels?,"
+Here's a list of 5 popular romantic books you can read for Valentine’s Day:
+-The Notebook by Nicholas Sparks
+-Pride and Prejudice by Jane Austen
+-Romeo & Juliet by William Shakespeare
+-Sense and Sensibility by Jane Austen
+-Anna Karenina by Leo Tolstoy"
+Why the certain animals called the big five and what are they?,"
+The Big Five refers to lions, leopards, rhinoceroses, elephants, and Cape buffalo in Africa. These species were considered most dangerous for hunters during colonial times when hunting was popular among European aristocrats. The term ""Big Five"" originated from this context but has since become more widely used as a reference to iconic African wildlife. 
+
+These large mammals represent some of the continent's most impressive creatures, each with its unique characteristics and behaviors. Lions are known for their strength and social structure, while leopards are renowned for their agility and stealthy hunting techniques. Rhinoceroses boast thick armor plates on their skin and powerful horns, making them formidable adversaries. Elephants are herbivores with long trunks and tusks, capable of crushing trees or using their size to intimidate predators. Finally, Cape buffalos have massive bodies and sharp horns, often forming herds for protection against threats such as lion prides. Together, these animals embody the diversity and majesty of the African wilderness."
+Think up steps to clean a keyboard and describe in an enumerated list pls,"
+1. Unplug your computer from power source, if it's plugged into one. 2. Remove all cables connected to your computer (e.g., mouse cable). 3. Disconnect any external devices attached to your computer such as USB drives or printers. 4. Shut down your computer by pressing ""Windows Key + X"" then selecting ""Shut Down."" 5. Wait for your computer to completely shutdown before proceeding with step six below. 6. Turn on your computer again after waiting at least five minutes since you last turned off your machine so that its components have time to cool down properly without overheating during this process; otherwise, there could be potential damage caused due to excessive heat buildup inside of them which may lead towards malfunction later on when trying out other tasks like installing new software updates etcetera! 7. Open up Task Manager (Ctrl+Shift+Esc) and click on ""More Details,"" located underneath Processes tab near bottom left corner where we can see what programs are currently running along side our operating system itself - these include things like antivirus scanners/firewalls among others depending upon user preference settings set within each program"
+Give me a checklist of 5 items of furniture I should buy for my new living room,"
+Here are five things you need to decorate your living room:
+-Couch
+-Chairs
+-Table
+-Lamps
+-Rugs"
+What are some different types of desserts?,"
+Some common types of desert include cake, pie, ice cream and pudding. 
+
+Cakes come in many flavors such as chocolate or vanilla with various frosting options like buttercream or fondant. Pies can be made from fruit fillings including apple, cherry or blueberry; they may also contain nuts for crunchiness. Ice creams range from classic vanillas to more exotic flavor combinations while puddings typically consist of custard-like mixtures served warm or cold depending on preference. 
+
+These four categories cover most popular forms of sweet treats enjoyed around the world!"
+Name all members of The Beatles,"
+The four original band members were John Lennon, Paul McCartney, George Harrison and Ringo Starr."
